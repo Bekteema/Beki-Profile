@@ -1,0 +1,25 @@
+html{
+  max-width : 100%;
+}
+
+body {
+  background-color: #0D0106;
+}
+
+h1 {
+  color: #FBFBFF;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 75px;
+}
+
+p {
+  color: #FBFBFF;
+  text-align: left;
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+  margin: 0 auto;
+}
+
+img{
+  float:right;
+}
