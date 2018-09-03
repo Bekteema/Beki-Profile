@@ -8,3 +8,10 @@ myImage.onmouseover = function() {
       myImage.setAttribute ('src','images/beki.png');
     }
 }
+
+var newcolor = document.querySelector('#changecolor');
+
+newcolor.ondblclick = function() {
+  var newCol = '#694D75';
+  document.body.style.backgroundColor = newCol;
+}
