@@ -4,9 +4,11 @@ html{
 
 body {
   background-color: #0D0106;
+  padding-left: 75px;
 }
 
 h1 {
+  margin: 0 auto;
   color: #FBFBFF;
   font-family: 'PT Sans Caption', sans-serif;
   font-size: 75px;
@@ -20,6 +22,20 @@ p {
   margin: 0 auto;
 }
 
-img{
+#myprofilepic {
   float:right;
+  padding-right: 150;
+}
+
+a {
+  color: #ecd540;
+}
+
+a:hover{
+  color: #FF331F
+}
+
+#inspiration{
+  color: #FBFBFF;
+  font-size: 10px;
 }
